@@ -1,0 +1,8 @@
+[
+  { "board_id": 283, "board_name": "CIO board", "board_type": "scrum" },
+  { "board_id": 310, "board_name": "CL board", "board_type": "scrum" },
+  { "board_id": 303, "board_name": "AM board", "board_type": "scrum" },
+  { "board_id": 389, "board_name": "BCB board", "board_type": "scrum" },
+  { "board_id": 304, "board_name": "AEGIS board", "board_type": "scrum" },
+  { "board_id": 345, "board_name": "AX board", "board_type": "scrum" }
+]
